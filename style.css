@@ -1,0 +1,53 @@
+.title_1 {
+    color:rgb(193, 69, 35);
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    border: 5px groove hsla(201, 50%, 24%, 0.49);
+    border-radius: 15px;
+    background-color: hsla(201, 50%, 24%, 0.49);
+}
+
+h1 {
+    margin: auto;
+    
+    font-family: Cursive;
+
+}
+
+
+body {
+    background-image: url("images/winterstone.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.winter {
+    color: rgb(99, 145, 145);
+}
+
+.stony{
+    color:rgb(79, 79, 79)
+}
+
+.gameborder {
+    border: 10px solid rgb(23, 23, 23);
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    background-color: hsla(201, 50%, 24%, 1);
+}
+
+
+/* 
+
+Colors Palette
+
+#1C3F47
+#79BFD0
+#4EAFC7
+#3D474A
+#398294
+
+*/
